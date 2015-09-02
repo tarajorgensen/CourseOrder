@@ -1,0 +1,9 @@
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\bin\Debug\CoursePrereqOrderTests.dll
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\bin\Debug\CoursePrereqOrderTests.pdb
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\bin\Debug\CourseOrder.exe
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\bin\Debug\nunit.framework.dll
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\bin\Debug\CourseOrder.pdb
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\bin\Debug\nunit.framework.xml
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.csprojResolveAssemblyReference.cache
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.dll
+c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.pdb
