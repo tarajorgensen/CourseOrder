@@ -1,0 +1,8 @@
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\bin\Debug\CourseOrderTests.dll
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\bin\Debug\CourseOrderTests.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\bin\Debug\CourseOrder.exe
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\bin\Debug\CourseOrder.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\obj\Debug\CourseOrderTests.csprojResolveAssemblyReference.cache
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\obj\Debug\CourseOrderTests.dll
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrderTests\obj\Debug\CourseOrderTests.pdb

@@ -7,3 +7,12 @@ c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrer
 c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.csprojResolveAssemblyReference.cache
 c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.dll
 c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\bin\Debug\CoursePrereqOrderTests.dll
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\bin\Debug\CoursePrereqOrderTests.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\bin\Debug\CourseOrder.exe
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\bin\Debug\nunit.framework.dll
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\bin\Debug\CourseOrder.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\bin\Debug\nunit.framework.xml
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.csprojResolveAssemblyReference.cache
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.dll
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CoursePrereqOrderTests\obj\Debug\CoursePrereqOrderTests.pdb

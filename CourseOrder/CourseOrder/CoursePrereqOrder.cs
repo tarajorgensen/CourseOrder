@@ -20,13 +20,14 @@ Advanced Office Warfare: History of Cubicle Siege Engines
 Rubber Band Catapults 101: 
 Paper Jet Engines: Introduction to Paper Airplanes";
 
-            //test = test.Replace("\n", "");
             //Console.WriteLine("Please enter your list of courses");
             //string userInput = Console.ReadLine();
+
             var splitCourses = CourseSplit(test);
+            List<string> finalOrder = new List<string>();
             foreach (string[] course in splitCourses)
             {
-                Swap(ref course[0], ref course[1]);
+                GetPrerequisite(splitCourses, course[0]);
             }
         }
 
@@ -36,28 +37,17 @@ Paper Jet Engines: Introduction to Paper Airplanes";
             //List<string> courseGroup = new List<string>(courses);
         }
 
-        public static void Swap(ref string a, ref string b)
+        public static string GetPrerequisite(string[][] courses, string course)
         {
-            string temp = a;
-            a = b;
-            b = temp;
-        }
-
-        public static bool HasPrerequisite(ref string course)
-        {
-            throw new NotImplementedException();
+            string prerequisite = "";
+            foreach (string[] item in courses)
+            {
+                if (item[0] == course && item[1] != "")
+                {
+                    prerequisite = item[1];
+                }
+            }
+            return prerequisite;
         }
     }
 }
-
-
-
-
-//  foreach (string n in s)
-//  {
-//    Console.WriteLine(n + ',');
-
-//  }
-//  Console.WriteLine(s);
-//}
-//return String.Empty;
