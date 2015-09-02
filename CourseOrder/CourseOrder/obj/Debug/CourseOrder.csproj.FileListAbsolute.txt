@@ -5,3 +5,6 @@ c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CourseOrde
 c:\users\tjorgensen\documents\visual studio 2013\Projects\CourseOrder\CourseOrder\obj\Debug\CourseOrder.pdb
 C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrder\obj\Debug\CourseOrder.exe
 C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrder\obj\Debug\CourseOrder.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrder\bin\Debug\CourseOrder.exe
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrder\bin\Debug\CourseOrder.pdb
+C:\Users\Tara\Documents\Visual Studio 2015\Projects\courseOrder\CourseOrder\CourseOrder\obj\Debug\CourseOrder.csprojResolveAssemblyReference.cache
