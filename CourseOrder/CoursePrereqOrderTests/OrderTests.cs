@@ -1,13 +1,45 @@
-﻿
-using NUnit.Framework;
+﻿using System;
+using System.Collections.Generic;
 using CourseOrder;
-
+using NUnit.Framework;
 
 namespace CoursePrereqOrderTests
 {
     [TestFixture]
-    public class OrderTests
+    public class CoursePrereqOrderTests
     {
+        [Test]
+        public void GetPrerequisitesTests()
+        {
+            string[][] test = new string[4][];
+            test[0] = new string[2];
+            test[1] = new string[2];
+            test[2] = new string[2];
+            test[3] = new string[2];
+            test[0][0] = "a";
+            test[0][1] = "b";
+            test[1][0] = "b";
+            test[1][1] = "c";
+            test[2][0] = "z";
+            test[2][1] = "y";
+            test[3][0] = "y";
+            test[3][1] = "z";
+            Assert.AreEqual("b", CoursePrereqOrder.GetPrerequisites(test, test[0][0]));
+            Assert.AreEqual("c", CoursePrereqOrder.GetPrerequisites(test, test[0][1]));
+            Assert.AreEqual("c", CoursePrereqOrder.GetPrerequisites(test, test[1][0]));
+            Assert.AreEqual("", CoursePrereqOrder.GetPrerequisites(test, test[1][1]));
+
+            try
+            {
+                CoursePrereqOrder.GetPrerequisites(test, test[2][0]);
+                Assert.Fail();
+            }
+            catch (Exception e)
+            {
+
+            }
+        }
+
         [Test]
         public void TestCourseSplit()
         {
@@ -20,24 +52,10 @@ Advanced Throwing Techniques: Introduction to Paper Airplanes";
             Assert.AreEqual(array[1][1], "Introduction to Paper Airplanes");
         }
 
-        //[Test]
-        //public void TestSwap()
-        //{
-        //    string[] test = new string[2];
-        //    test[0] = "a";
-        //    test[1] = "b";
-        //    CoursePrereqOrder.Swap(ref test[0], ref test[1]);
-        //    Assert.AreEqual("a", test[1]);
-        //    Assert.AreEqual("b", test[0]);
-        //}
         [Test]
-        public void TestHasPrerequisite()
+        public void TestCreateFinalOutputString()
         {
-            string[][] test = new string[2][];
-            test[0][0] = "a";
-            test[0][1] = "b";
-            Assert.AreEqual(false, CoursePrereqOrder.HasPrerequisite(test , test[0][1]));
-            Assert.AreEqual(true, CoursePrereqOrder.HasPrerequisite(test, test[0][0]));
+            List<string> testList = new List<string>() { "string1", "string2", "string3", "string4" };
         }
     }
 }
